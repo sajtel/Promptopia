@@ -40,7 +40,7 @@ const Form = ({
           <span className='font-saoshi font-semibold text-base text-gray-700'>
             Field of Prompt{" "}
             <span className='font-normal'>
-              (#product, #webdevelopment,#idea,etc.)  
+              (#product, #webdevelopment, #idea, etc.)  
             </span>
           </span>
           <input
